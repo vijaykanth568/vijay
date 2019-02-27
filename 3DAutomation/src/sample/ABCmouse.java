@@ -33,14 +33,14 @@ public class ABCmouse {
 		//capabilities.setCapability(MobileCapabilityType.APP, "mobi.abcmouse.academy_goo_2019-01-31.apk");
 		//<Capabilities><uap:Capability Name="objects3D"/></Capabilities>
 
-	   
-	   capabilities.setCapability("appPackage", "mobi.abcmouse.academy_goo");
-	   
-	   capabilities.setCapability("appActivity","com.abcmouse.MainActivity"); // This is Launcher activity of your app (you can get it from apk info app)
-	 //Create RemoteWebDriver instance and connect to the Appium server
-	  //It will launch the Calculator App in Android Device using the configurations specified in Desired Capabilities
-	    driver = new RemoteWebDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
-	    Thread.sleep(2000);
+//	   
+//	   capabilities.setCapability("appPackage", "mobi.abcmouse.academy_goo");
+//	   
+//	   capabilities.setCapability("appActivity","com.abcmouse.MainActivity"); // This is Launcher activity of your app (you can get it from apk info app)
+//	 //Create RemoteWebDriver instance and connect to the Appium server
+//	  //It will launch the Calculator App in Android Device using the configurations specified in Desired Capabilities
+//	    driver = new RemoteWebDriver(new URL("http://127.0.0.1:4723/wd/hub"), capabilities);
+//	    Thread.sleep(2000);
 	    
 	}
 	
