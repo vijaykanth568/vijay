@@ -29,7 +29,7 @@ public class ABCmouse {
 		capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, MobilePlatform.ANDROID);
 		//capabilities.setCapability("VERSION", ""); 
 	    capabilities.setCapability("deviceName","Nexus_7_2012_API_28");
-		capabilities.setCapability("platformName","Android");
+	//	capabilities.setCapability("platformName","Android");
 		//capabilities.setCapability(MobileCapabilityType.APP, "mobi.abcmouse.academy_goo_2019-01-31.apk");
 		//<Capabilities><uap:Capability Name="objects3D"/></Capabilities>
 
