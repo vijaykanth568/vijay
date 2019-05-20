@@ -7,7 +7,6 @@
         <methods>
           <include name="quit"/>
           <include name="loginABC"/>
-          <include name="testCal"/>
           <include name="openABC"/>
         </methods>
       </class> <!-- sample.ABCmouse -->

@@ -5,13 +5,14 @@
 	<classpathentry kind="lib" path="C:/Users/admin/Downloads/java-client-7.0.0.jar"/>
 	<classpathentry kind="lib" path="C:/Users/admin/Downloads/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/guava-14.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/javacpp-0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/opencv-2.4.9-0.9.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/piccolo2d-core-1.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/piccolo2d-extras-1.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/sikuli-api-1.2.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/sikuli-core-1.2.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SikuliJats/slf4j-api-1.6.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/sikuli-script.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SelJava/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SelJava/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SelJava/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SelJava/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SelJava/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SelJava/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Desktop/SelJava/okio-1.14.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
