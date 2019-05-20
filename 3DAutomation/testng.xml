@@ -1,0 +1,9 @@
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<classes>
+			<class name="sample.Norka" />
+		</classes>
+		
+		
+	</test>
+</suite>
